@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/davidhenley/nodeweather/issues"
   },
-  "homepage": "https://github.com/davidhenley/nodeweather#readme"
+  "homepage": "https://github.com/davidhenley/nodeweather#readme",
+  "dependencies": {
+    "request": "^2.80.0"
+  }
 }
