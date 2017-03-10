@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/davidhenley/nodeweather#readme",
   "dependencies": {
+    "axios": "^0.15.3",
     "request": "^2.80.0",
     "yargs": "^4.8.1"
   }
